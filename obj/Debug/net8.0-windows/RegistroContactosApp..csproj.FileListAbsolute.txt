@@ -1,0 +1,17 @@
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp_.Form1.resources
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..csproj.GenerateResource.cache
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..AssemblyInfoInputs.cache
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..AssemblyInfo.cs
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..csproj.CoreCompileInputs.cache
+C:\source\repos\Progra2C#\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp..exe
+C:\source\repos\Progra2C#\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp..deps.json
+C:\source\repos\Progra2C#\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp..runtimeconfig.json
+C:\source\repos\Progra2C#\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp..dll
+C:\source\repos\Progra2C#\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp..pdb
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..dll
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\refint\RegistroContactosApp..dll
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..pdb
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..genruntimeconfig.cache
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\ref\RegistroContactosApp..dll
+C:\source\repos\Progra2C#\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp..sourcelink.json
